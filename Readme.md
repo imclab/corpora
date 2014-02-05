@@ -22,6 +22,10 @@ Sometimes there are millions of records in these places, so writing to a single 
 
 Machine learning and natural language processing depends on quality data (though you'd think you could use that to _get_ the quality data lol). There are great sites like Freebase and DBPedia and others, but they have APIs with limited access. Instead, the data should be hand-crafted and publicly available in an easy way. OpenData.org isn't there yet imo, it's still just links out to most of the data and you have to end up having to parse it and clean it up yourself anyways. Eventually though, we'll have the data.
 
+## How to use
+
+Some of the cdnjson repos have `data.json` files that are super large, way too large to open in a text editor. So for now you can just either create a readstream to use them, or just import them directly into mongodb or another database. Maybe eventually those larger repos should be broken down into simpler files.
+
 ## Licence
 
 MIT
