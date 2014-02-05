@@ -28,4 +28,5 @@ Some of the cdnjson repos have `data.json` files that are super large, way too l
 
 ## Licence
 
-MIT
+- MIT
+- Reading in Bed icon by Ben Hsu from The Noun Project
