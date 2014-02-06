@@ -1,14 +1,14 @@
 
 /**
- * Expose `cdnjson`.
+ * Expose `corpora`.
  */
 
-module.exports = cdnjson;
+module.exports = corpora;
 
 /**
  * load dataset for node or browser or something :)
  */
 
-function cdnjson(name) {
+function corpora(name) {
   
 }

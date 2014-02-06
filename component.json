@@ -1,12 +1,12 @@
 {
-  "name": "cdnjson",
-  "repo": "cdnjson",
-  "description": "Cdnjson component",
+  "name": "corpora",
+  "repo": "corpora",
+  "description": "Curating the most interesting data in the universe to train machines.",
   "version": "0.0.1",
   "keywords": [],
   "author": "Lance Pollard <lancejpollard@gmail.com>",
   "dependencies": {
-    "component/emitter": "*"
+    
   },
   "development": {
     "visionmedia/mocha": "*",

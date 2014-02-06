@@ -1,13 +1,13 @@
-# CdnJSON
+# Corpora
 
-There data is still too hard to find and access.
+There data is still too hard to find and access. We need to make it accessible so we can start doing natural language processing and machine learning at a faster rate.
 
 ## Current Datasets
 
 Data that's been curated:
 
-- List of Atoms (Wikipedia): https://github.com/cdnjson/atoms
-- List of Organisms (PubMed Taxonomy): https://github.com/cdnjson/organisms
+- List of Atoms (Wikipedia): https://github.com/corpora/atoms
+- List of Organisms (PubMed Taxonomy): https://github.com/corpora/organisms
 
 ## Overview
 
@@ -24,7 +24,7 @@ Machine learning and natural language processing depends on quality data (though
 
 ## How to use
 
-Some of the cdnjson repos have `data.json` files that are super large, way too large to open in a text editor. So for now you can just either create a readstream to use them, or just import them directly into mongodb or another database. Maybe eventually those larger repos should be broken down into simpler files.
+Some of the corpora repos have `data.json` files that are super large, way too large to open in a text editor. So for now you can just either create a readstream to use them, or just import them directly into mongodb or another database. Maybe eventually those larger repos should be broken down into simpler files.
 
 ## Licence
 
